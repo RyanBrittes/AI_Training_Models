@@ -1,7 +1,7 @@
-import pandas as pd
+from menuData import MenuData
 from loadData import LoadData
 
-df = LoadData()
-dataF = df.get_data()
+A = MenuData()
 
-print(dataF.loc[[1, 2], ['age']])
+A.menuOperations()
+

@@ -1,6 +1,5 @@
-name,age,education,experience,actualJob,salary,seniority
-Ana Silva,28,3,2,Analista de Dados,4800,Júnior
-Carlos Mendes,35,4,6,Engenheiro de Software Sênior,9500,Sênior
-Fernanda Rocha,42,5,10,Gerente de Projetos,12000,Sênior
-Lucas Ferreira,24,2,1,Suporte Técnico Nível 1,2800,Júnior
-Juliana Costa,31,3,4,Designer UX/UI Pleno,6200,Pleno
+name,age,education,experience,actualJob,salary,seniority,plr
+Carlos Mendes,35.0,,6,Engenheiro de Software Sênior,9500,Sênior,
+Fernanda Rocha,42.0,5.0,10,Gerente de Projetos,12000,Sênior,
+Lucas Ferreira,24.0,2.0,1,Suporte Técnico Nível 1,2800,Júnior,
+Juliana Costa,31.0,3.0,4,Designer UX/UI Pleno,6200,Pleno,
