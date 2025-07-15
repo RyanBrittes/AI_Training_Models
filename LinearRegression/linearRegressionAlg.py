@@ -6,14 +6,14 @@ import torch.nn as nn
 from sklearn.model_selection import train_test_split
 
 #Dataset definition
-dataset = pd.read_csv('/home/ryan/Documents/Python/AI/LinearRegression/sample.csv')
+dataset = pd.read_csv('/home/ryan/Documents/Python/AI/AI_Training_Models/LinearRegression/sample_employees.csv')
 
 #Extract values and separe X and Y
-valueX = dataset[['Height', 'Weight']].values.astype(np.float32)
-valueY = dataset[['Value']].values.astype(np.float32)
+valueX = dataset[['age', 'education', 'experience', 'seniority']].values.astype(np.float32)
+valueY = dataset[['salary']].values.astype(np.float32)
 
 #Separe the train and test
-trainX, testX, trainY, testY = train_test_split(valueX, valueY, test_size=0.25, random_state=42)
+trainX, testX, trainY, testY = train_test_split(valueX, valueY, test_size=0.4, random_state=42)
 
 #Converting to tensors
 tensor_trainX = torch.tensor(trainX)
@@ -27,7 +27,7 @@ class LinearRegression(nn.Module):
     def __init__(self):
         super(LinearRegression, self).__init__(),
         #Atribuição de valores para o modelo que será utilizado
-        self.linear = nn.Linear(2, 1)
+        self.linear = nn.Linear(4, 1)
     
     #Método responsável por chamar o método principal
     def forward(self, x):
@@ -37,7 +37,7 @@ modelLR = LinearRegression()
 
 #Createing the loss and optimizer function
 FuncMSE = nn.MSELoss() #Cálculo da perda
-FuncOptimizer = torch.optim.SGD(modelLR.parameters(), lr=0.00003) #Função que atualiza os pesos
+FuncOptimizer = torch.optim.SGD(modelLR.parameters(), lr=0.00001) #Função que atualiza os pesos
 
 #Training
 varEpochs = 1000

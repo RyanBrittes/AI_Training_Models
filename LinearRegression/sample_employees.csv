@@ -1,0 +1,201 @@
+name,age,education,experience,actualJob,seniority,salary
+Fiona,37,4,18,Developer,3,119216.16
+Hannah,29,4,10,Developer,3,125726.14
+Bob,45,5,27,Technician,3,109314.82
+Fiona,28,2,9,Designer,3,127734.0
+Diana,45,5,23,Developer,3,108778.09
+Alice,27,2,9,Engineer,3,93450.32
+Bob,28,3,10,Designer,3,99183.48
+Alice,43,3,23,Technician,3,153110.62
+Diana,57,3,35,Data Scientist,3,162588.86
+Julia,54,5,33,Manager,3,161256.97
+Ivan,49,4,28,Developer,3,124629.36
+Julia,26,3,7,Data Scientist,3,99086.89
+Ivan,42,4,22,Consultant,3,152394.48
+Hannah,27,3,7,Consultant,3,105265.0
+Ivan,46,5,25,Technician,3,115001.85
+Charlie,25,2,3,Analyst,2,57879.19
+Fiona,56,4,34,Engineer,3,148459.12
+Fiona,27,2,5,Data Scientist,2,75653.54
+Bob,36,5,17,Designer,3,122412.45
+George,47,3,29,Engineer,3,115623.72
+George,30,2,9,Analyst,3,109984.3
+Hannah,51,5,33,Consultant,3,137304.6
+Diana,23,3,1,Designer,1,23484.32
+Charlie,32,3,12,Developer,3,108647.65
+Diana,36,3,18,Analyst,3,117866.86
+Hannah,47,4,25,Manager,3,154812.24
+Ivan,49,3,31,Consultant,3,160137.01
+Edward,27,3,7,Consultant,3,144878.49
+Bob,48,4,28,Consultant,3,147796.76
+Alice,25,2,4,Consultant,2,48899.48
+Julia,34,4,16,Analyst,3,98757.86
+Bob,28,3,8,Developer,3,143242.11
+Ivan,39,5,20,Technician,3,151889.68
+Alice,43,4,25,Analyst,3,159490.19
+Fiona,25,2,5,Analyst,2,48052.76
+Charlie,59,3,37,Technician,3,136064.65
+Julia,30,4,10,Data Scientist,3,121533.35
+Edward,24,1,5,Consultant,2,68300.76
+Julia,25,4,5,Designer,2,67945.85
+Hannah,60,4,39,Engineer,3,159153.53
+Fiona,54,5,33,Technician,3,120187.94
+Alice,34,4,12,Engineer,3,153293.02
+Ivan,46,4,24,Manager,3,142826.69
+Julia,60,5,41,Data Scientist,3,147505.93
+Hannah,47,4,29,Data Scientist,3,130592.38
+Julia,38,3,18,Consultant,3,91162.79
+Julia,43,5,25,Consultant,3,119399.24
+Ivan,35,5,13,Consultant,3,143565.97
+Hannah,38,3,20,Consultant,3,117621.87
+Edward,34,4,14,Technician,3,146802.96
+Fiona,28,3,7,Consultant,3,88249.28
+Fiona,27,2,6,Analyst,2,81749.93
+George,53,4,35,Consultant,3,124315.82
+Charlie,47,5,27,Developer,3,138637.69
+Diana,49,5,27,Developer,3,150007.09
+Bob,41,4,19,Developer,3,122013.07
+Julia,26,4,8,Consultant,3,149412.53
+Diana,29,4,10,Consultant,3,99067.66
+Alice,52,5,32,Engineer,3,153295.05
+Ivan,35,5,17,Technician,3,155248.82
+Fiona,55,4,34,Designer,3,124485.1
+George,31,2,12,Technician,3,139811.62
+Fiona,37,3,15,Engineer,3,121715.59
+Julia,48,4,28,Developer,3,106211.19
+Alice,42,4,22,Engineer,3,133965.97
+Fiona,43,5,24,Analyst,3,156077.69
+Fiona,25,2,5,Designer,2,55750.89
+Julia,29,4,10,Engineer,3,101250.52
+Charlie,44,3,24,Designer,3,157033.59
+Edward,52,3,34,Manager,3,93216.4
+Ivan,59,5,37,Developer,3,147909.1
+George,35,5,15,Engineer,3,89798.03
+Bob,53,5,32,Consultant,3,143020.61
+George,36,4,18,Consultant,3,147919.53
+Ivan,26,3,7,Analyst,3,149333.87
+Julia,39,5,18,Data Scientist,3,116871.33
+Edward,56,3,36,Consultant,3,139156.39
+Hannah,45,3,24,Technician,3,133686.24
+George,60,5,40,Analyst,3,129874.38
+Diana,55,3,36,Technician,3,98382.05
+George,34,4,12,Technician,3,116963.1
+Hannah,54,3,36,Data Scientist,3,161222.16
+Alice,29,2,8,Technician,3,86706.2
+Hannah,26,2,7,Consultant,3,128269.26
+Ivan,39,4,20,Consultant,3,105174.43
+Bob,35,5,14,Analyst,3,106503.72
+George,23,1,3,Engineer,2,58952.04
+Alice,52,4,30,Analyst,3,107699.12
+Alice,38,4,19,Consultant,3,135655.38
+Charlie,30,3,12,Developer,3,134706.44
+Charlie,50,4,31,Analyst,3,93972.02
+Edward,36,4,14,Consultant,3,142367.9
+Diana,39,4,20,Data Scientist,3,92537.23
+George,57,4,37,Consultant,3,125986.32
+Julia,24,2,5,Technician,2,71115.54
+Hannah,43,3,24,Analyst,3,90440.05
+Bob,42,4,21,Engineer,3,110213.83
+Charlie,45,4,26,Engineer,3,109864.91
+Edward,58,4,40,Consultant,3,140361.02
+George,50,5,29,Developer,3,155558.12
+Ivan,50,5,29,Developer,3,132172.29
+Hannah,27,2,5,Technician,2,65519.87
+Charlie,40,5,22,Data Scientist,3,161547.3
+Fiona,60,3,38,Data Scientist,3,112993.74
+Hannah,43,4,21,Manager,3,147781.79
+Alice,39,3,18,Developer,3,101581.08
+Charlie,53,4,35,Technician,3,127018.25
+Edward,54,3,36,Technician,3,131972.47
+Ivan,26,3,6,Engineer,2,59579.25
+Ivan,27,4,6,Consultant,2,65494.52
+Alice,21,2,0,Analyst,1,40271.8
+Diana,49,3,27,Designer,3,144145.1
+Julia,44,4,24,Consultant,3,113962.66
+Alice,53,4,31,Data Scientist,3,123661.05
+Hannah,41,5,21,Engineer,3,96894.68
+Ivan,42,5,23,Manager,3,151189.38
+Bob,44,5,23,Data Scientist,3,94170.95
+George,53,3,33,Manager,3,160726.01
+Edward,33,3,13,Data Scientist,3,88716.71
+Edward,47,3,27,Developer,3,119488.62
+Hannah,55,4,35,Data Scientist,3,113402.55
+Bob,22,1,3,Developer,2,77255.98
+Alice,34,2,16,Technician,3,101957.44
+Julia,37,5,16,Designer,3,98483.15
+Julia,51,3,31,Designer,3,153641.46
+Julia,46,3,25,Designer,3,105358.62
+Edward,39,4,20,Technician,3,111084.49
+Julia,39,5,18,Consultant,3,140553.03
+Charlie,35,4,13,Engineer,3,140605.87
+Fiona,57,4,37,Designer,3,152789.34
+Alice,29,2,10,Designer,3,129446.87
+Edward,36,3,16,Developer,3,148423.62
+Bob,31,3,13,Developer,3,99614.24
+Ivan,58,4,39,Manager,3,107036.6
+George,24,2,3,Data Scientist,2,58309.43
+Edward,22,1,4,Consultant,2,79544.06
+Hannah,49,4,27,Engineer,3,120839.1
+Fiona,40,5,22,Consultant,3,97270.95
+George,24,1,6,Developer,2,72866.0
+Edward,34,2,13,Data Scientist,3,99642.43
+Alice,30,2,10,Technician,3,149818.42
+George,28,3,9,Developer,3,123697.0
+Charlie,53,5,33,Designer,3,156109.23
+Bob,24,1,6,Consultant,2,51938.17
+Alice,60,5,39,Analyst,3,165340.46
+Bob,38,4,18,Manager,3,126604.21
+Edward,58,4,38,Consultant,3,162371.13
+Bob,36,4,14,Developer,3,142044.83
+George,31,3,12,Manager,3,89468.05
+Charlie,60,4,42,Manager,3,113653.1
+Alice,36,4,14,Designer,3,93882.05
+George,50,3,29,Manager,3,139265.45
+Julia,37,4,17,Engineer,3,149087.19
+Alice,52,4,32,Designer,3,115702.85
+Charlie,56,4,34,Designer,3,139777.48
+Bob,59,4,38,Analyst,3,130528.64
+Julia,60,3,38,Analyst,3,124105.61
+Charlie,37,3,18,Developer,3,151932.76
+George,41,4,22,Developer,3,146332.68
+Edward,33,4,13,Engineer,3,107984.46
+Diana,38,3,18,Developer,3,142052.66
+Bob,46,3,28,Technician,3,147884.37
+George,31,3,10,Engineer,3,129136.02
+Fiona,21,3,2,Technician,1,43299.11
+Alice,49,4,31,Analyst,3,158941.96
+Charlie,55,4,36,Engineer,3,156320.21
+Ivan,26,3,6,Technician,2,69421.79
+Charlie,38,3,16,Technician,3,155072.09
+Fiona,51,3,29,Data Scientist,3,96431.52
+George,35,4,13,Engineer,3,95803.77
+Bob,40,5,21,Designer,3,98034.93
+Julia,60,5,38,Manager,3,101529.79
+Bob,31,3,11,Analyst,3,117216.71
+Hannah,52,4,30,Data Scientist,3,151164.19
+Bob,31,3,12,Manager,3,136837.83
+Julia,59,3,38,Manager,3,111926.59
+Alice,54,5,34,Manager,3,104602.58
+Edward,56,3,37,Manager,3,127069.39
+Charlie,30,4,12,Consultant,3,135457.56
+Charlie,48,5,26,Analyst,3,135166.45
+Bob,45,4,23,Data Scientist,3,132994.46
+Bob,38,3,19,Data Scientist,3,133172.14
+Julia,24,1,4,Engineer,2,63939.46
+Bob,30,2,8,Consultant,3,99115.78
+Charlie,60,4,40,Designer,3,111077.13
+Diana,23,2,3,Manager,2,71730.79
+Edward,54,4,32,Data Scientist,3,134215.41
+Charlie,32,2,14,Analyst,3,145559.85
+Diana,22,2,0,Consultant,1,26144.31
+Diana,23,2,1,Technician,1,35145.64
+Fiona,27,3,9,Consultant,3,96598.23
+Hannah,50,5,29,Data Scientist,3,135939.01
+Hannah,51,3,29,Designer,3,112206.25
+Edward,30,4,8,Developer,3,87456.66
+Julia,32,3,10,Designer,3,92987.51
+Ivan,58,5,37,Manager,3,115573.62
+Diana,32,2,12,Consultant,3,150777.82
+George,36,3,16,Data Scientist,3,131384.32
+Alice,55,4,37,Manager,3,112232.95
+Hannah,21,3,0,Engineer,1,26437.19
