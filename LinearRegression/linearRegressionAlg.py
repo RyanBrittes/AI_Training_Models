@@ -1,9 +1,15 @@
-import pandas as pd
-import matplotlib.pylab as plt
-import numpy as np
+#Machine learning
 import torch
 import torch.nn as nn
 from sklearn.model_selection import train_test_split
+
+#Data
+import pandas as pd
+import numpy as np
+
+#Visualization
+import matplotlib.pylab as plt
+
 
 #Dataset definition
 dataset = pd.read_csv('/home/ryan/Documents/Python/AI/AI_Training_Models/LinearRegression/sample_employees.csv')
