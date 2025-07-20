@@ -13,6 +13,8 @@ noise = np.random.randn(n_amostras) * 0.2
 # Saída real com ruído
 y = X @ true_weights + bias + noise
 
+print(y)
+
 # Inicialização dos parâmetros
 w = np.zeros(X.shape[1])  # vetor com 3 pesos (um para cada feature)
 b = 0.0
@@ -40,6 +42,9 @@ for epoch in range(epochs):
 
     loss = mse(y, y_pred)
     losses.append(loss)
+
+    if (epoch + 1) % 100 == 0:
+        print(f"Época {epoch+1}: Loss = {loss:.4f}, w1 = {w[0]:.4f}, b = {b:.4f}")
 
 # Resultados
 print("Pesos aprendidos:", w)
