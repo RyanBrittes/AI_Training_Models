@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-dataset = pd.read_csv('/home/ryan/Documents/Python/AI/AI_Training_Models/files/diabetes.csv')
+dataset = pd.read_csv('/home/ryan/Documents/Python/AI/AI_Training_Models/DataManipulation/file/diabetes.csv')
 
 valueX = dataset[['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI']].values
 valueY = dataset[['Age']].values
